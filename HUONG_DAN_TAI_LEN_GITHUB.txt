@@ -1,0 +1,12 @@
+BƯỚC TIẾP THEO – TẢI MÃ NGUỒN LÊN GITHUB
+
+1. Giải nén file baking-library-github-upload.zip.
+2. Trong repository baking-library trên GitHub, bấm “uploading an existing file”.
+3. Mở thư mục đã giải nén, chọn TẤT CẢ file và thư mục bên trong rồi kéo vào trang GitHub.
+   Không tải nguyên file ZIP lên repository.
+4. Chờ GitHub tải xong.
+5. Ở ô Commit changes, ghi: Initial Baking Library app
+6. Bấm Commit changes.
+
+KHÔNG đưa file .env hoặc mật khẩu/API secret lên GitHub.
+File .env.example chỉ là mẫu và an toàn.
